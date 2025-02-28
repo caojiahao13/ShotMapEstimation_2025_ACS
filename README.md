@@ -5,5 +5,5 @@ This repository contains the supplementary materials for the paper titled "What 
 We provide three Jupyter notebooks with R code and instructions to reproduce all the reported results in the manuscript:
 
 * `Simulation/simulation.ipynb`: Conducts the simulation study in Section 4 and generates the corresponding figures.
-* `RealDataAnalysis/GenerateFigures.ipynb`: Generates the main figures for the real dataset and the resulting fitting results.
+* `RealDataAnalysis/GenerateFigures.ipynb`: Generates the main figures for the real dataset and the resulting fitting results. The R code for fitting the model to the dataset (three players) is located in `RealDataAnalysis/ModelFitting`.
 * `RealDataAnalysis/ModelComparison.ipynb`: Conducts a model comparison on the real dataset between the proposed method and several competitive models.

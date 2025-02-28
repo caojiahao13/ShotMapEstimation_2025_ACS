@@ -198,5 +198,5 @@ print(accept.pop)
 print(accept.type)
 
 
-save(Theta.result,file="curry_homelevel_theta.RData")
+save(Theta.result,file="../Data/curry/curry_homelevel_theta.RData")
 

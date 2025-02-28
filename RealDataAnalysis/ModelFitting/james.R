@@ -198,4 +198,4 @@ print(accept.pop)
 print(accept.type)
 
 
-save(Theta.result,file="james_homelevel_theta.RData")
+save(Theta.result,file="../Data/james/james_homelevel_theta.RData")
